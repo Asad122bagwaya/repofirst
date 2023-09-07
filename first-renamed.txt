@@ -1,0 +1,3 @@
+this is version 1 file
+i want to change it and i want to go into commit 2
+i havce changed it secondly
